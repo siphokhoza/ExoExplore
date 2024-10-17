@@ -2,7 +2,7 @@
   "name": "exoplanet-quiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mandisalovet.github.io/ExoExplore/",
+  "homepage": "https://siphokhoza.github.io/ExoExplore/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
